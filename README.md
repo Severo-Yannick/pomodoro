@@ -15,3 +15,7 @@ Ces pauses régulières favorisent l'agilité intellectuelle.
 - Faire vibrer le device à la fin d'une des deux parties
 - Recevoir une notification lorsque la partie travail ou break est terminée
 - Stockage + affichage de l'historique des sessions de travail dans le téléphone (asyncStorage)
+
+## Librairies
+
+- [NativeBase](https://nativebase.io/) est une bibliothèque de composants accessible et utilitaire qui vous aide à créer une interface utilisateur cohérente sur Android, iOS et Web.
