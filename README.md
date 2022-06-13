@@ -19,3 +19,5 @@ Ces pauses régulières favorisent l'agilité intellectuelle.
 ## Librairies
 
 - [NativeBase](https://nativebase.io/) est une bibliothèque de composants accessible et utilitaire qui vous aide à créer une interface utilisateur cohérente sur Android, iOS et Web.
+
+- [ReactNavigation](https://reactnavigation.org/) est une bibliothèque de routage et navigation pour les applications Expo et React Native.
